@@ -93,18 +93,4 @@ This is my official central hub for Final Year Projects. All repositories are pr
 
 </div>
 
-### Developer Contact Object
-
-`javascript
-/* Contact Metadata Object - Feel free to use */
-const contactInfo = {
-  name: "Muhammad Usman",
-  github: "https://github.com/useratnns",
-  linkedIn: "https://linkedin.com/in/musman100official",
-  email: "usmanboota.dev@gmail.com",
-  web: "http://www.corecslab.com",
-  whatsApp: "https://wa.me/923000437358"
-};
-`
-
 <p align="center">Keep Building. Keep Scaling.</p>
