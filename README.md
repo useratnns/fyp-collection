@@ -75,7 +75,7 @@ This is my official central hub for Final Year Projects. All repositories are pr
 ---
 
 <div align="center">
-  <h2>Professional Profile</h2>
+  <h2>About Developer</h2>
   <img src="./author_photo.jpg" alt="Muhammad Usman" width="180" style="border-radius: 50%; border: 4px solid #2ea44f;">
   <h3>Muhammad Usman</h3>
   <p>Full Stack Developer | Open Source Contributor</p>
