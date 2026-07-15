@@ -1,6 +1,6 @@
 ﻿<div align="center">
   <h1>Final Year Project (FYP) Master Collection</h1>
-  <p><b>A professional directory curated by Muhammad Usman</b></p>
+  <p><b>A professional directory curated by Ali Muhammad</b></p>
   <p>
     <img src="https://img.shields.io/badge/Portfolio-Live-brightgreen?style=for-the-badge">
     <img src="https://img.shields.io/badge/Projects-38-blue?style=for-the-badge">
@@ -76,20 +76,16 @@ This is my official central hub for Final Year Projects. All repositories are pr
 
 <div align="center">
   <h2>About Developer</h2>
-  <img src="./author_photo.jpg" alt="Muhammad Usman" width="180" style="border-radius: 50%; border: 4px solid #2ea44f;">
-  <h3>Muhammad Usman</h3>
+  <img src="./author_photo.jpg" alt="Ali Muhammad" width="180" style="border-radius: 50%; border: 4px solid #2ea44f;">
+  <h3>Ali Muhammad</h3>
   <p>Full Stack Developer | Open Source Contributor</p>
   <p><i>Building the future, one commit at a time.</i></p>
   <br>
-
-  <a href="https://linkedin.com/in/musman100official">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-  <a href="https://github.com/useratnns">![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)</a>
-  <a href="mailto:usmanboota.dev@gmail.com">![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
-  <a href="https://wa.me/923000437358">![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)</a>
+  <a href="https://github.com/alimuhammad100">![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)</a>
+  <a href="mailto: alimuhammad032626@gmail.com">![Email](https://img.shiel.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+  <a href="https://wa.me/923262615081">![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)</a>
   <br><br>
-  <a href="https://facebook.com/share/1E9deijpxL/">![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)</a>
-  <a href="https://instagram.com/callme_usman._">![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a>
-  <a href="http://www.corecslab.com">![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=web&logoColor=white)</a>
+  <a href="https://instagram.com/its_ali_mk">![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a>
 
 </div>
 
