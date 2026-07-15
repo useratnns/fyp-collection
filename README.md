@@ -76,7 +76,7 @@ This is my official central hub for Final Year Projects. All repositories are pr
 
 <div align="center">
   <h2>About Developer</h2>
-  <img src="./author_photo.jpg" alt="Ali Muhammad" width="180" style="border-radius: 50%; border: 4px solid #2ea44f;">
+  <img src="xxxxxx" alt="Ali Muhammad" width="180" style="order-radius: 50%; border: 4px solid #2ea44f;">
   <h3>Ali Muhammad</h3>
   <p>Full Stack Developer | Open Source Contributor</p>
   <p><i>Building the future, one commit at a time.</i></p>
